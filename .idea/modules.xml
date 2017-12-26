@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-core/admin-core.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-core/admin-core.iml" group="admin-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-core/admin-core_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-core/admin-core_integrationTest.iml" group="admin-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-core/admin-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-core/admin-core_main.iml" group="admin-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/admin-core/admin-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/admin-core/admin-core_test.iml" group="admin-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui.iml" group="adminlte-ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_ast.iml" group="adminlte-ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_integrationTest.iml" group="adminlte-ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_main.iml" group="adminlte-ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_test.iml" group="adminlte-ui" />
+      <module fileurl="file://$PROJECT_DIR$/grails-adminlte-ui.iml" filepath="$PROJECT_DIR$/grails-adminlte-ui.iml" />
+    </modules>
+  </component>
+</project>

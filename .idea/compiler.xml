@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="admin-core_integrationTest" target="1.8" />
+      <module name="admin-core_main" target="1.8" />
+      <module name="admin-core_test" target="1.8" />
+      <module name="adminlte-ui_ast" target="1.8" />
+      <module name="adminlte-ui_integrationTest" target="1.8" />
+      <module name="adminlte-ui_main" target="1.8" />
+      <module name="adminlte-ui_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
