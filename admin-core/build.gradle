@@ -63,8 +63,16 @@ dependencies {
     testRuntime "org.seleniumhq.selenium:selenium-firefox-driver:3.6.0"
     testRuntime "org.seleniumhq.selenium:selenium-remote-driver:3.6.0"
     testRuntime "org.seleniumhq.selenium:selenium-api:3.6.0"
-	compile project(":adminlte-ui")
+//	compile project(":adminlte-ui")
 }
+
+// tag::grailsplugins[]
+grails {
+    plugins {
+        compile project(':adminlte-ui')
+    }
+}
+// end::grailsplugins[]
 
 bootRun {
     jvmArgs('-Dspring.output.ansi.enabled=always')

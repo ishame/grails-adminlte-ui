@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c8371f-af3b-4e73-9912-656219f9b66d" name="Default" comment="" />
+    <list default="true" id="d1c8371f-af3b-4e73-9912-656219f9b66d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminLTEController.groovy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminlteUiUrlMappings.groovy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/layouts/adminlte.gsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/adminlte-ui/src/test/groovy/adminlte/ui/AdminLTEControllerSpec.groovy" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___admin_core___admin_core_0_1_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___admin_core___admin_core_0_1_war__exploded_.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_ast.iml" afterPath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_ast.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_integrationTest.iml" afterPath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_integrationTest.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/adminlte-ui/adminlte-ui_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/admin-core/build.gradle" afterPath="$PROJECT_DIR$/admin-core/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/UrlMappings.groovy" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/grails-app/views/error.gsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/grails-app/views/index.gsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/grails-app/views/layouts/main.gsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/grails-app/views/notFound.gsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/index2.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index2.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/UI/buttons.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/UI/buttons.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/UI/general.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/UI/general.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/UI/icons.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/UI/icons.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/UI/modals.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/UI/modals.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/UI/sliders.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/UI/sliders.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/UI/timeline.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/UI/timeline.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/calendar.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/calendar.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/charts/chartjs.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/chartjs.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/charts/flot.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/flot.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/charts/inline.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/inline.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/charts/morris.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/morris.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/404.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/404.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/500.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/500.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/blank.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/blank.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/invoice-print.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/invoice-print.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/invoice.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/invoice.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/lockscreen.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/lockscreen.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/login.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/login.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/pace.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/pace.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/profile.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/profile.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/examples/register.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/examples/register.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/forms/advanced.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/forms/advanced.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/forms/editors.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/forms/editors.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/forms/general.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/forms/general.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/layout/boxed.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/layout/boxed.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/layout/collapsed-sidebar.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/layout/collapsed-sidebar.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/layout/fixed.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/layout/fixed.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/layout/top-nav.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/layout/top-nav.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/mailbox/compose.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/mailbox/compose.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/mailbox/mailbox.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/mailbox/mailbox.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/mailbox/read-mail.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/mailbox/read-mail.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/tables/data.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/tables/data.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/tables/simple.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/tables/simple.gsp" />
+      <change beforePath="$PROJECT_DIR$/adminlte-ui/src/main/webapp/pages/widgets.html" afterPath="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/widgets.gsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/admin-core/.gradle/" />
@@ -28,6 +91,12 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/adminlte-ui">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/admin-core">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -44,21 +113,18 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="grails-adminlte-ui" type="f1a62948:ProjectNode" />
                 <item name="grails-adminlte-ui" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="grails-adminlte-ui" type="f1a62948:ProjectNode" />
-                <item name="grails-adminlte-ui" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
+                <item name=":adminlte-ui" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="grails-adminlte-ui" type="f1a62948:ProjectNode" />
-                <item name="grails-adminlte-ui" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name=":adminlte-ui" type="2d1252cf:ModuleNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -68,18 +134,134 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/adminlte-ui/src/main/webapp/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="1017">
+              <caret line="78" column="33" lean-forward="false" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chartjs.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/chartjs.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/calendar.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+              <folding>
+                <element signature="e#26349#26355#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widgets.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/widgets.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index2.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminlteUiUrlMappings.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminlteUiUrlMappings.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminLTEController.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminLTEController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminlte.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/layouts/adminlte.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>link rel=&quot;stylesheet&quot; href=&quot;</find>
+      <find>&quot;static</find>
+      <find>&quot;static/</find>
+      <find>href=&quot;</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; href=&quot;</find>
+      <find>&lt;script src=&quot;</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; href=&quot;../static/https://</find>
+      <find>dist/img/</find>
+      <find>.html&quot;</find>
+      <find>dist/img</find>
+      <find>/../../</find>
+      <find>static/../</find>
+      <find>Chart.js</find>
+      <find>Chart.js/</find>
+      <find>../static/</find>
+      <find>..//static</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>link rel=&quot;stylesheet&quot; href=&quot;static/</replace>
+      <replace>&lt;script src=&quot;static/</replace>
+      <replace>href=&quot;../static/</replace>
+      <replace>&lt;link rel=&quot;stylesheet&quot; href=&quot;../static/</replace>
+      <replace>&lt;script src=&quot;../static/</replace>
+      <replace>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://</replace>
+      <replace>../static/dist/img/</replace>
+      <replace>&quot;</replace>
+      <replace>&quot;../static/</replace>
+      <replace>/</replace>
+      <replace>static/</replace>
+      <replace>chart.js/</replace>
+      <replace>/static/</replace>
+      <replace>/static</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\lab\workspaces\grails-adminlte-ui\adminlte-ui\grails-app\views</dir>
+      <dir>C:\lab\workspaces\grails-adminlte-ui\adminlte-ui\grails-app\views\adminlte\pages</dir>
+      <dir>C:\lab\workspaces\grails-adminlte-ui\adminlte-ui\grails-app\views\adminlte</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1218,8 +1400,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4542782510775" />
-        <entry key="$PROJECT_DIR$/admin-core/build.gradle" value="354456868" />
+        <entry key="$PROJECT_DIR$" value="4542790798472" />
+        <entry key="$PROJECT_DIR$/admin-core/build.gradle" value="2943308584" />
         <entry key="$PROJECT_DIR$/adminlte-ui/build.gradle" value="1035291285" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3823116461" />
       </map>
@@ -1772,11 +1954,25 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$" value="IMPORT" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../grails-gentelella-ui" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../grails-gentelella-ui-app" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../grails-simpla-project" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminLTEUrlMappings.groovy" />
+        <option value="$PROJECT_DIR$/admin-core/build.gradle" />
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index.gsp" />
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/chartjs.gsp" />
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/views/layouts/adminlte.gsp" />
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/calendar.gsp" />
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminLTEController.groovy" />
+        <option value="$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminlteUiUrlMappings.groovy" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -1790,6 +1986,9 @@
     <option name="y" value="31" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1806,10 +2005,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1817,10 +2012,121 @@
               <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="adminlte" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="adminlte" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="bower_components" type="462c0819:PsiDirectoryNode" />
+              <item name="chart.js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grails-adminlte-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grails-adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="adminlte-ui" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="Grails" />
     </panes>
   </component>
@@ -1829,6 +2135,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lab\workspaces\grails-adminlte-ui\adminlte-ui\grails-app\views\adminlte" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\lab\workspaces\grails-adminlte-ui\adminlte-ui\grails-app\views\adminlte" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1885,6 +2202,60 @@
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="grails-adminlte-ui:admin-core [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/admin-core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="grails-adminlte-ui:adminlte-ui [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/adminlte-ui" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="grails-adminlte-ui:adminlte-ui [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/adminlte-ui" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -1979,16 +2350,22 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails: adminlte-ui" />
       <item index="1" class="java.lang.String" itemvalue="Grails.Grails: admin-core" />
       <item index="2" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui [bootRun]" />
       <item index="3" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui [clean]" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui:adminlte-ui [clean]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui:admin-core [clean]" />
+      <item index="6" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui:adminlte-ui [bootRun]" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui [clean]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui [bootRun]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui:adminlte-ui [bootRun]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui [bootRun]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui:admin-core [clean]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.grails-adminlte-ui:adminlte-ui [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -2005,49 +2382,87 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514260977633</updated>
-      <workItem from="1514260978915" duration="802000" />
+      <workItem from="1514260978915" duration="6841000" />
+      <workItem from="1514270940661" duration="7137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="802000" />
+    <option name="totallyTimeSpent" value="13978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3051519" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22423026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3051519" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22690763" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3051519" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3989432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22690763" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TraitInjectorService">
     <option name="state">
@@ -2604,24 +3019,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/conf/logback.groovy">
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-236">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/conf/application.yml">
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1071">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="21012">
+          <caret line="1236" column="32" lean-forward="false" selection-start-line="1236" selection-start-column="32" selection-end-line="1236" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -2638,7 +3061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2646,14 +3068,157 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/src/main/webapp/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/src/main/groovy/adminlte/ui/AdminlteUiGrailsPlugin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/init/adminlte/ui/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/init/adminlte/ui/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/conf/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/conf/logback.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="78" lean-forward="false" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/adminlte-ui/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1271" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.23/e5c70a402738f0ab5153e11b16ec28fb5eb8da2/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/net/NioEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1492" column="30" lean-forward="false" selection-start-line="1492" selection-start-column="30" selection-end-line="1492" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index2.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="78" column="33" lean-forward="false" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/charts/chartjs.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/widgets.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/adminlte/pages/calendar.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding>
+            <element signature="e#26349#26355#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/views/layouts/adminlte.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminLTEController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte-ui/grails-app/controllers/adminlte/ui/AdminlteUiUrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -2661,9 +3226,84 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : admin.core : admin-core-0.1.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>adminlte-ui_main|adminlte-ui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

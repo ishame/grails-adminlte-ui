@@ -17,9 +17,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="adminlte-ui_main" />
     <orderEntry type="module" module-name="adminlte-ui_ast" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm-validation:6.1.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-validator:commons-validator:1.5.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm-support:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm-validation:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-plugin-domain-class:3.3.2" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -29,9 +32,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-plugin-domain-class:3.3.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-validator:commons-validator:1.5.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-collections:commons-collections:3.2.2" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:1.5.8.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:1.5.8.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.5.8.RELEASE" level="project" />

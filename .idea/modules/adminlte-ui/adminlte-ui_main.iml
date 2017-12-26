@@ -10,9 +10,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app">
       <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/controllers" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/domain" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/init" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/services" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/taglib" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/utils" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../adminlte-ui/grails-app/conf" type="java-resource" />
@@ -28,14 +26,15 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="adminlte-ui_ast" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:1.5.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-plugin-domain-class:3.3.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm-validation:6.1.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-validator:commons-validator:1.5.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-collections:commons-collections:3.2.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm:6.1.8.RELEASE" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm-support:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-validator:commons-validator:1.5.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-datastore-gorm-validation:6.1.8.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.grails:grails-plugin-domain-class:3.3.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-collections:commons-collections:3.2.2" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:1.5.8.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.5.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-actuator:1.5.8.RELEASE" level="project" />
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
@@ -45,7 +44,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-actuator:1.5.8.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.8.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-logging:3.3.2" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-databinding:3.3.2" level="project" />
